@@ -1,2 +1,3 @@
-# issueisblog
+# articles
+
 Use issue as Blog
